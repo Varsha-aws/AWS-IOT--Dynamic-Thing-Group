@@ -46,7 +46,7 @@ In your AWS console or CLI, discover your newly created API ARN resource name fo
 Configure AWS Lambda with Amazon API Gateway:
 Refer the documentation :[Lambda-Apigateway](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)
 
-**Step 3**:Upload the 'GroupCreated' class in to the lambda
+**Step 3**:Customize the 'GroupCreated' class and upload it in lambda .
 
 **Step 4**:Create Things using the documentation
 
